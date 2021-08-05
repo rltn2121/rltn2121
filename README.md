@@ -36,6 +36,8 @@ Here are some ideas to get you started:
   <li>삼성SDS SW 역량테스트 (Professional) (2021.07.00)</li>
   <li>TOEIC Speaking Level 6 (150점) (2021.03.00)</li>
   <li>~TOEIC 900점 (만료) (2018.00.00)~</li>
+  <li>~~TOEIC 900점 (만료) (2018.00.00)~~</li>
+  <li>~~TOEIC 900점 (만료) (2018.00.00)</li>
   <li>한국사능력검정시험 1급 (2018.00.00)</li>
   <li>컴퓨터활용능력 1급 (2018.00.00)</li>
 </ul>
