@@ -25,7 +25,7 @@ Here are some ideas to get you started:
   - 산갈래: https://github.com/rltn2121/mountain</li>
   <li>Softsquared 9기 (Server Session)<br>
   - 요기요 클론코딩: https://github.com/rltn2121/yogiyo_clone_APIServer (교육과정 6주)<br>
-  - Class 101 클론코딩: https://github.com/rltn2121/class101_clone_APIServer (모의외주 2주)</li>
+  - Class 101 클론코딩: https://github.com/mock-os-9th/class101_mock_server_bella_parker (모의외주 2주)</li>
   <li>인하대학교 딥러닝/머신러닝 윈터스쿨<br>
   - 건물번호판 인식: https://github.com/rltn2121/BuildingLicensePlate</li>
   
