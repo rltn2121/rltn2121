@@ -31,6 +31,11 @@ Here are some ideas to get you started:
   
   
 </ul>
+
+<b>진행 중</b>
+<ul>
+  <li>삼성 청년 SW 아카데미 7기 (2022.01 ~ )</li>
+</ul>
     
 <b>수상</b>
 <ul>
@@ -40,8 +45,8 @@ Here are some ideas to get you started:
 
 <b>자격증</b>
 <ul>
-  <li>삼성SDS SW 역량테스트 (Professional) (2021.07.00)</li>
-  <li>컴퓨터활용능력 1급 (2018.00.00)</li>
-  <li>정보처리기사 필기 (실기 진행 중) (2032.00.00)</li>
+  <li>삼성SDS SW 역량테스트 (Professional) (2021.07)</li>
+  <li>컴퓨터활용능력 1급 (2018.03)</li>
+  <li>정보처리기사 (2021.12)</li>
 </ul>
 
