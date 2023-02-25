@@ -28,13 +28,13 @@ Here are some ideas to get you started:
   - Class 101 클론코딩: https://github.com/mock-os-9th/class101_mock_server_bella_parker (모의외주 2주)</li>
   <li>인하대학교 딥러닝/머신러닝 윈터스쿨<br>
   - 건물번호판 인식: https://github.com/rltn2121/BuildingLicensePlate</li>
-  
+  <li>삼성 청년 SW 아카데미 7기 (2022.01 ~ 2022.06)</li>
   
 </ul>
 
 <b>진행 중</b>
 <ul>
-  <li>삼성 청년 SW 아카데미 7기 (2022.01 ~ )</li>
+
 </ul>
     
 <b>수상</b>
