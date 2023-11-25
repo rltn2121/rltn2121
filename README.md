@@ -48,5 +48,9 @@ Here are some ideas to get you started:
   <li>삼성SDS SW 역량테스트 (Professional) (2021.07)</li>
   <li>컴퓨터활용능력 1급 (2018.03)</li>
   <li>정보처리기사 (2021.12)</li>
+  <li>SQLD (2023.00)</li>
+  <li>ADsP (2023.00)</li>
+  <li>빅데이터분석기사 (2023.00)</li>
+  <li>KBI 금융DT (2023.11)</li>
 </ul>
 
