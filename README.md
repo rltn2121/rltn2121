@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=rltn2121)](https://solved.ac/rltn2121)
 
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kl9512)](https://solved.ac/kl9512)
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rltn2121&show_icons=true)](https://github.com/rltn2121)
 
 
