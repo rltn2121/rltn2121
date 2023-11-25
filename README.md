@@ -12,11 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-C++
+<b>C++</b>
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=rltn2121)](https://solved.ac/rltn2121)
 
-JAVA
+<b>JAVA</b>
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kl9512)](https://solved.ac/kl9512)
 
